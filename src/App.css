@@ -1,11 +1,23 @@
-.App {
-  text-align: center;
+.Body {
+  background-color: blanchedalmond;
+  width: 55%;
+  height: 140px;
+  border-radius: 10px;
+  align-self: center;
+  margin-top: 25px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App {
+  text-align: center;
+  width: 55%;
+  height: 140px;
+  border-radius: 10px;
+  align-self: center;
+  margin-top: 25px;
+  background-color: blanchedalmond;
 }
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
